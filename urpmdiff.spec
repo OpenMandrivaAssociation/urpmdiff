@@ -4,7 +4,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	%{release}
+Release:	1
 Summary:	A tool to show diffs between rpms
 License:	GPL
 Group:		Development/Other
