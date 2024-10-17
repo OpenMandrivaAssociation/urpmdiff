@@ -9,7 +9,7 @@ Summary:	A tool to show diffs between rpms
 License:	GPL
 Group:		Development/Other
 Source0:	%{name}-%{version}.tar.bz2
-Url:		http://cvs.mandriva.com/cgi-bin/cvsweb.cgi/soft/%{name}
+Url:		https://cvs.mandriva.com/cgi-bin/cvsweb.cgi/soft/%{name}
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
